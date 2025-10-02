@@ -45,7 +45,8 @@ Dieses Projekt zeigt praxisnah:
 - Ableitung von Insights für Geschäftsentscheidungen  
 
 ## Autor
-**Zulker** – [GitHub Profil](https://github.com/Zulkerr)  
+**Zulker** – [GitHub Profil](https://github.com/Zulkerr)
+
 ## Screenshot
 ![Umsatz nach Segment](outputs/segment.png)
 
