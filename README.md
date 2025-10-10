@@ -3,7 +3,7 @@
 ## Projektübersicht
 Dieses Projekt analysiert Verkaufsdaten des fiktiven Superstore-Datasets.  
 Ziel ist es, **Datenanalysen und Visualisierungen** durchzuführen, um wichtige Insights über Kunden, Produkte und Umsatztrends zu gewinnen.  
-Das Notebook eignet sich als Portfolio-Projekt für **Data Analyst / Business Intelligence / Data Science Einstieg**.
+
 
 ## Inhalt des Repositories
 - `notebooks/Superstore_Analysis.ipynb` – Das komplette Jupyter Notebook mit allen Analysen und Plots  
